@@ -11,11 +11,15 @@ I'm a Data Science enthusiast and a Master's student, always curious about how d
 
 💻 My Skills:
 Programming Languages: Python 🐍, R, SQL
-Data Science Tools: Jupyter Notebooks, pandas, NumPy, scikit-learn
-Data Visualization: Matplotlib, Seaborn, Tableau 📊
-Other Tools: Excel, Git, Power BI
-🚀 Check Out My Projects:
 
+Data Science Tools: Jupyter Notebooks, pandas, NumPy, scikit-learn
+
+Data Visualization: Matplotlib, Seaborn, Tableau 📊
+
+Other Tools: Excel, Git, Power BI
+
+
+🚀 Check Out My Projects:
 Have a look at my portfolio to explore the data science projects I’ve been working on: 👉 Portfolio
 
 💌 Let’s Connect:
