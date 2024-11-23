@@ -1,15 +1,25 @@
-# Hi, I'm Tariere! 👋
+Hi there! I'm Tariere 💖👋
 
-**A bit about me:**
+I'm a Data Science enthusiast and a Master's student on a journey to unlock the power of data! When I'm not analyzing data, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
 
-* 🔭**Interests:** I'm a Master's student, currently pursuing a degree in Data Science. In my spare time I love  reading, painting and hanging out with friends. 
-* 🌱 **Skills:** Python, Jupyternotebook, SQL, R, Excel
-* To learn more about the projects I've worked on, you can find portfolio **here:**[https://github.com/Tarieret/Portfolio]
+💡 A Little About Me:
+🎓 Currently pursuing a Master's in Data Science with a special focus on machine learning, Big Data Analytics, and statistics.
+🔍 Exploring: Python, SQL, R, Jupyter Notebooks, and all things data science! 📊
+🌱 Learning every day: Constantly expanding my knowledge with new tools, techniques, and exciting projects.
+🎨 In my free time: Painting, reading, and connecting with my creative side.
 
-**Let's connect:**
-* **LinkedIn:** [https://www.linkedin.com/in/tariere-timitimi/]
-* 📫**Email:** [tarieretimitimi@gmail.com]
+
+💻 My Skills:
+Programming Languages: Python 🐍, R, SQL
+Data Science Tools: Jupyter Notebooks, pandas, NumPy, scikit-learn
+Data Visualization: Matplotlib, Seaborn, Tableau 📊
+Other Tools: Excel, Git, Power BI
+🚀 Check Out My Projects:
+
+Have a look at my portfolio to explore the data science projects I’ve been working on: 👉 Portfolio
+
+💌 Let’s Connect:
+LinkedIn: Tariere Timitimi
+Email: tarieretimitimi@gmail.com
 * **Kaggle:** [https://www.kaggle.com/tarieretimitimi]
-
-**Feel free to reach out if you have any questions or want to collaborate!**
-
+I’d love to collaborate, share ideas, or just chat about all things data! Don't hesitate to reach out. 💕
