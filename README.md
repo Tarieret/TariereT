@@ -7,8 +7,8 @@
 * To learn more about the projects I've worked on, you can find portfolio **here:** 
 
 **Let's connect:**
-* **LinkedIn:** [Your LinkedIn profile link]
-* 📫**Email:** [Your email address]
+* **LinkedIn:** [https://www.linkedin.com/in/tariere-timitimi/]
+* 📫**Email:** [tarieretimitimi@gmail.com]
 
 **Feel free to reach out if you have any questions or want to collaborate!**
 
