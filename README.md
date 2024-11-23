@@ -21,7 +21,9 @@ Have a look at my portfolio to explore the data science projects I’ve been wor
 💌 Let’s Connect:
 
 LinkedIn: Tariere Timitimi
+
 Email: tarieretimitimi@gmail.com
+
 * **Kaggle:** [https://www.kaggle.com/tarieretimitimi]
 
 I’d love to collaborate, share ideas, or just chat about all things data! Don't hesitate to reach out. 💕
