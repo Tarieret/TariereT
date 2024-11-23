@@ -9,6 +9,7 @@
 **Let's connect:**
 * **LinkedIn:** [https://www.linkedin.com/in/tariere-timitimi/]
 * 📫**Email:** [tarieretimitimi@gmail.com]
+* **Kaggle:** [https://www.kaggle.com/tarieretimitimi]
 
 **Feel free to reach out if you have any questions or want to collaborate!**
 
