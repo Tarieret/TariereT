@@ -24,6 +24,6 @@ LinkedIn: Tariere Timitimi
 
 Email: tarieretimitimi@gmail.com
 
-* **Kaggle:** [https://www.kaggle.com/tarieretimitimi]
+Kaggle: [https://www.kaggle.com/tarieretimitimi]
 
 I’d love to collaborate, share ideas, or just chat about all things data! Don't hesitate to reach out. 💕
