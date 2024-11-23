@@ -1,4 +1,4 @@
-Hi there! I'm Tariere 💖👋
+Hi there! I'm Tariere👋
 
 I'm a Data Science enthusiast and a Master's student, always curious about how data can tell stories and help solve problems. When I'm not analyzing data, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
 
@@ -19,6 +19,7 @@ Other Tools: Excel, Git, Power BI
 Have a look at my portfolio to explore the data science projects I’ve been working on: 👉 Portfolio
 
 💌 Let’s Connect:
+
 LinkedIn: Tariere Timitimi
 Email: tarieretimitimi@gmail.com
 * **Kaggle:** [https://www.kaggle.com/tarieretimitimi]
