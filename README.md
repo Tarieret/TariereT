@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tariere! 👋
 
-<!--
-**Tarieret/TariereT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A bit about me:**
 
-Here are some ideas to get you started:
+* 🔭**Interests:** I'm a Master's student, currently pursuing a degree in Data Science. In my spare time I love  reading, painting and hanging out with friends. 
+* 🌱 **Skills:** Python, Jupyternotebook, SQL, R, Excel
+* To learn more about the projects I've worked on, you can find portfolio **here:** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Let's connect:**
+* **LinkedIn:** [Your LinkedIn profile link]
+* 📫**Email:** [Your email address]
+
+**Feel free to reach out if you have any questions or want to collaborate!**
+
