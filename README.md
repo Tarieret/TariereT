@@ -1,6 +1,6 @@
 Hi there! I'm Tariere 💖👋
 
-I'm a Data Science enthusiast and a Master's student on a journey to unlock the power of data! When I'm not analyzing data, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
+I'm a Data Science enthusiast and a Master's student, always curious about how data can tell stories and help solve problems. When I'm not analyzing data, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
 
 💡 A Little About Me:
 🎓 Currently pursuing a Master's in Data Science with a special focus on machine learning, Big Data Analytics, and statistics.
