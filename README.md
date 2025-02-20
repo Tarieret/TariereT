@@ -1,6 +1,6 @@
 Hi there! I'm Tariere👋
 
-I'm a Data enthusiast and a Master's student, always curious about how data can tell stories and help solve problems. When I'm not working on a project, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
+I'm a Data enthusiast and a Master's student, always curious about how data can tell stories and help solve problems. With a background in political science, I enjoy exploring how data-driven insights can be applied across various domains, including the social sciences.When I'm not working on a project, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
 
 
 🚀 Check Out My Projects:
