@@ -5,7 +5,7 @@ I'm a Data enthusiast and a Master's student, always curious about how data can 
 
 🚀 Check Out My Projects:
 
-Have a look at my portfolio to explore the data science projects I’ve been working on: 
+Have a look at my portfolio to explore some of the projects I’ve been working on: 
 👉[https://github.com/Tarieret/Portfolio] 
 
 
