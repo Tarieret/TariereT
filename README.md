@@ -11,9 +11,7 @@ Have a look at my portfolio to explore some of the projects I’ve been working 
 
 
 💌 Let’s Connect:
-
 LinkedIn: [https://www.linkedin.com/in/tariere-timitimi/]
-
 Email: [tarieretimitimi@gmail.com]
 
-I’d love to collaborate, share ideas, or just chat about all things data! Don't hesitate to reach out. 
+I’d love to collaborate or share ideas! Don't hesitate to reach out. 
