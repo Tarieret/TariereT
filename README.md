@@ -1,17 +1,19 @@
-Hi there! I'm Tariere👋
+# Hi there! I'm Tariere 👋
 
-I'm a Data enthusiast, always curious about how data can tell stories and help solve problems. With a background in Political Science and Data Science, I enjoy exploring how data-driven insights can be applied across various fields. When I'm not working on a project, you'll find me reading a good book, painting, or enjoying quality time with friends. ✨
+I'm a Data Science and AI/ML enthusiast, passionate about turning data into insights and building impactful solutions. I enjoy exploring how data-driven approaches can solve real-world problems.
 
+When I'm not coding or analyzing data, you'll find me reading, painting, or spending quality time with friends. ✨
 
-🚀 Check Out My Projects:
+---
 
-Have a look at my portfolio to explore some of the projects I’ve been working on: 
-👉[https://github.com/Tarieret/Portfolio] 
+## 🚀 Featured Work
+Check out my portfolio for detailed projects demonstrating machine learning, AI, and cloud deployment:  
+👉 [Portfolio](https://github.com/Tarieret/Portfolio)
 
+---
 
+## 💌 Let's Connect
+- LinkedIn: [https://www.linkedin.com/in/tariere-timitimi/](https://www.linkedin.com/in/tariere-timitimi/)  
+- Email: tarieretimitimi@gmail.com  
 
-💌 Let’s Connect:
-LinkedIn: [https://www.linkedin.com/in/tariere-timitimi/]
-Email: [tarieretimitimi@gmail.com]
-
-I’d love to collaborate or share ideas! Don't hesitate to reach out. 
+I’d love to collaborate or share ideas — don’t hesitate to reach out!
