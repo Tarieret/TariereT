@@ -8,7 +8,7 @@ When I'm not coding or analyzing data, you'll find me reading, making art, or sp
 
 ## 🚀 Featured Work
 Check out my portfolio for detailed projects demonstrating machine learning, AI, and cloud deployment:  
-👉 [Portfolio](https://github.com/Tarieret/Portfolio)
+👉 [Portfolio](https://tarieret.github.io/Portfolio/)
 
 ---
 
