@@ -16,7 +16,7 @@ Check out my portfolio for detailed projects demonstrating machine learning, AI,
 - LinkedIn: [https://www.linkedin.com/in/tariere-timitimi/](https://www.linkedin.com/in/tariere-timitimi/)  
 - Email: tarieretimitimi@gmail.com  
 
-I’d love to collaborate or share ideas — don’t hesitate to reach out!
+I’d love to collaborate or share ideas- don’t hesitate to reach out!
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
