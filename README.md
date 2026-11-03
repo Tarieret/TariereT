@@ -1,6 +1,6 @@
 # Hi there! I'm Tariere 👋
 
-I'm a Data Science and analytics enthusiast, passionate about turning data into insights and building impactful solutions. I enjoy exploring how data-driven approaches can provide insight and solve problems.
+I'm an AI enthusiast, passionate about turning data into insights and building impactful solutions. I enjoy exploring how data-driven approaches can provide insight and solve problems.
 
 When I'm not working on a project, you'll find me reading, making art, or spending quality time with friends. ✨
 
