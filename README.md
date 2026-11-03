@@ -7,7 +7,7 @@ When I'm not working on a project, you'll find me reading, making art, or spendi
 ---
 
 ## 🚀 Featured Work
-Check out my portfolio for detailed projects demonstrating machine learning, AI, and cloud deployment:  
+Check out my portfolio for detailed projects:  
 👉 [Portfolio](https://tarieret.github.io/Portfolio/)
 
 ---
