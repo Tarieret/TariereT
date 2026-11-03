@@ -1,6 +1,6 @@
 # Hi there! I'm Tariere 👋
 
-I'm an AI enthusiast, passionate about turning data into insights and building impactful solutions. I enjoy exploring how data-driven approaches can provide insight and solve problems.
+I'm an MS Data Science student, passionate about turning data into insights and building impactful solutions. I enjoy applying my data skills to different, interesting problems. 
 
 When I'm not working on a project, you'll find me reading, making art, or spending quality time with friends. ✨
 
