@@ -14,7 +14,6 @@ Check out my portfolio for detailed projects:
 
 ## 💌 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/tariere-timitimi/](https://www.linkedin.com/in/tariere-timitimi/)  
-- Email: tarieretimitimi@gmail.com  
 
 I’d love to collaborate or share ideas- don’t hesitate to reach out!
 
